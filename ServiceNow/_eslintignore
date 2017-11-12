@@ -1,0 +1,5 @@
+**/node_modules/** 
+**/bower_components/** 
+**/react-gift-components/dist/**
+**/react-common-components/dist/**
+**/react-common-components/lib/**
