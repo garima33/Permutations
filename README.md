@@ -7,7 +7,7 @@ Make sure you have installed all of the following prerequisites on your developm
 * Git - [Download & Install Git](https://git-scm.com/downloads). OSX and Linux machines typically have this already installed.
 * Node.js - [Download & Install Node.js](https://nodejs.org/en/download/) and the npm package manager.
 
-##Steps To Run:
+## Steps To Run:
 
 Clone this repository to wherever you like to keep your development code then
 run the following commands;
